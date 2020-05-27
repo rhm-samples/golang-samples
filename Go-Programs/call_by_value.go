@@ -3,12 +3,12 @@ import "fmt"
 
 func increment(a int) {
 	
-	a++
+    a++
 }
 
 func main() {
 
-	a := 5
-	increment(a)
-	fmt.Println(a)
+    a := 5
+    increment(a)
+    fmt.Println(a)
 }
