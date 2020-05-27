@@ -17,7 +17,7 @@ func main() {
 	value,isPresent := mapNumberToWord[4]
 	if(isPresent == true) {
 
-		fmt.Println("Word corresponding to 4 is-"+value)
+		fmt.Println("Word corresponding to 4 is - "+value)
 	}else {
 		
 		fmt.Println("4 is not present")
