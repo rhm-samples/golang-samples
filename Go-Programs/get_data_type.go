@@ -4,5 +4,5 @@ import "fmt"
 func main() {
 
 	var number float32
-	fmt.Printf("%T\n",number)
+	fmt.Printf("The data-type of variable is : %T\n",number)
 }
