@@ -11,7 +11,7 @@ func solve(number1 int,number2 int) (int,int) {
 func add(number1 int,number2 int) {
 
     result := number1 + number2
-    fmt.Println(result)
+    fmt.Printf("Sum of 2 numbers in add() function = %d\n",result)
 }
 
 func main() {
